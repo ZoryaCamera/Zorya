@@ -4,10 +4,8 @@
 
 ## MijickCamera
 
-- **版权所有:** © 2024 Mijick
 - **许可证:** Apache License 2.0
 - **源代码:** https://github.com/Mijick/Camera
-- **用途:** 相机基础功能实现
 
 ## 
 
