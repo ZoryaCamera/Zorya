@@ -12,7 +12,7 @@ Thank you for using Zorya Camera. We take your privacy seriously. This Privacy P
 - Photo Library Access: For saving photos to your gallery. **Local processing only, no sync or backup**.
 - App Data: Basic device model, OS version, feature usage statistics, and crash reports for app optimization and functionality improvements. All data is collected anonymously (cannot be linked to personal identity).
 
-### 1.3 Information We Don't Collect
+### 1.2 Information We Don't Collect
 - **Zorya Camera has no user registration system**, so we don't store any personal user information.
 - **We don't upload your photos or videos**.
 - **We don't analyze or collect facial data**.
