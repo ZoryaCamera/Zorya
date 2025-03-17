@@ -1,15 +1,15 @@
-# 开源许可声明
+# Open Source Licenses
 
-本应用使用了以下开源组件：
+This application uses the following open source components:
 
 ## MijickCamera
 
-- **许可证:** Apache License 2.0
-- **源代码:** https://github.com/Mijick/Camera
+- **License:** Apache License 2.0
+- **Source Code:** https://github.com/Mijick/Camera
 
-## 
+## License Full Text
 
-## 许可证全文
+### Apache License 2.0
 
 ```text
                                  Apache License
